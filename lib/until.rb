@@ -3,6 +3,7 @@ def using_until
   until levitation_force == 10 
     levitation_force += 1 
     puts "My Wingardium Leviosa is at level #{levitation_force}!"
+  end
 end
 
 puts "My Wingardium Leviosa skill is proficient now!"
