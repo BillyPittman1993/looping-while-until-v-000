@@ -5,4 +5,4 @@ def using_until
     puts "My Wingardium Leviosa is at level #{levitation_force}!"
 end
 
-puts "My "
+puts "My Wingardium Leviosa skill is proficient now!"
