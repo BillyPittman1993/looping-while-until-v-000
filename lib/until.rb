@@ -5,5 +5,3 @@ def using_until
     levitation_force += 1
   end
 end
-
-puts "My Wingardium Leviosa skill is proficient now!"
