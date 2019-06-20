@@ -6,4 +6,4 @@ def using_until
   end
 end
 
-puts "my skills are proficient! "
+puts "My skills are proficient!"
